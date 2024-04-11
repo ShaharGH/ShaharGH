@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahar Oved</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-- 🔭 My last project is **"Journey to Poland" Application**
+- 🔭 My last project was about **"Journey to Poland" Application**
 
 - 💬 Ask me about **C#, ASP.NET,JavaScript,HTML,CSS,React.js,React Native**
 
