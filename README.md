@@ -3,8 +3,6 @@
 
 - 🔭 My last project is **"Journey to Poland" Application**
 
-- 🌱 I learned about **C#, ASP.NET,JavaScript,HTML,CSS,React.js,React Native**
-
 - 💬 Ask me about **C#, ASP.NET,JavaScript,HTML,CSS,React.js,React Native**
 
 - 📫 How to reach me **shahar23oved@gmail.com**
